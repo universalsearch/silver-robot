@@ -1,0 +1,35 @@
+{
+    "providerName": "Seitel Test",
+    "language": "en-US",
+    "lastUpdated": "2020-03-15T02:01:00+02:00",
+    "shortFormVideos": [
+        {
+            "longDescription": "Check out some cool shit",
+            "thumbnail": "https://i.ytimg.com/vi/Il6d_Or2I2o/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDWca0BXRIswiirqG40dWbBOYwd1Q",
+            "releaseDate": "2020-01-15",
+            "genres": [
+                "educational"
+            ],
+            "tags": [
+                "getting-started"
+            ],
+            "id": "the-dusty-wheel-episode-221",
+            "shortDescription": "What will happen to Stepin? Does it involve Alanna? How does this relate to Lan, Logain, Moiraine, and Rand? Where will Min be introduce, and why? Is she at the Waygate? And, how deep into Tel'aran'rhiod will Season 1 go? Come theorize will us as we piece together the picture the recent Wheel of Time Trailer is painting!",
+            "title": "NEW WHEEL OF TIME THEORIES: Logain, Alanna, Min, Stepin, & More",
+            "content": {
+                "duration": 4995,
+                "videos": [
+                    {
+                        "videoType": "MP4",
+                        "url": "https://r2---sn-a5msenek.googlevideo.com/videoplayback?expire=1633321309&ei=_SxaYYOKGYeJkwal_bjAAQ&ip=76.102.195.139&id=o-AFq_C-CGtEWKWBsyj2C1GCTT4-V5TeZyQpCiq2KpPa-7&itag=18&source=youtube&requiressl=yes&vprv=1&mime=video%2Fmp4&ns=uPeC3Ks7FUgoAGfhIqKpzGIG&gir=yes&clen=193923789&ratebypass=yes&dur=4995.448&lmt=1633296676446968&fexp=24001373,24007246&c=WEB&txp=7210222&n=Koj493dvMGWj0hOb&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cvprv%2Cmime%2Cns%2Cgir%2Cclen%2Cratebypass%2Cdur%2Clmt&sig=AOq0QJ8wRgIhAM7KcLdUjp25fYGk7asvpeki8zLaRPSwM4yxCB5BNcXhAiEAmk0mmqLOndTSdEOvM9f_lwkzJXBQWrNG7d3WeD0qT2k%3D&redirect_counter=1&cm2rm=sn-n4vez7l&req_id=dba7f2e2fe26a3ee&cms_redirect=yes&mh=Iy&mm=34&mn=sn-a5msenek&ms=ltu&mt=1633299513&mv=u&mvi=2&pl=22&lsparams=mh,mm,mn,ms,mv,mvi,pl&lsig=AG3C_xAwRAIgN51-zHGuxaohwqJ_eas2j-GEhmz7DtAKGqXhEcYOcSYCIFR0tbWfwQT8ZtfBrcW0o9_X9_3O9smVKKXGIR2O6O4o",
+                        "quality": "HD"
+                    }
+                ],
+                "language": "en-us",
+                "dateAdded": "2020-01-15T02:39:11Z"
+            }
+        }
+    ],
+    "series": [],
+    "movies": []
+}
